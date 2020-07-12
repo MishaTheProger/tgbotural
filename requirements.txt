@@ -1,0 +1,7 @@
+flask
+cython
+vedis
+pytelegrambotapi
+bs4
+requests
+lxml
